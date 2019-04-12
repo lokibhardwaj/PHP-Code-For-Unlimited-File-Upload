@@ -1,0 +1,1919 @@
+@media (max-width: 320px){
+fieldset, #upload_finished, body._drag .bgImg-first::before, #upload_done, #cancel_container, #uploading, #sendLinks_wrapper, #mail_sent, .terms-containers {
+  min-height: 24em;
+  width: 16.9em;
+}
+fieldset.logins-wrapper{
+ min-height: 30em;
+}
+
+.f_name{
+  width: 68%;
+}
+.f_size {
+  width: 28%;
+}
+.current_file_name {
+  width: 59%;
+}
+.current_file_size {	
+  width: 28%;
+}
+#left_files {
+  width: 40%;
+}
+.dwn_fieldset .f_name {
+  width: 60%;
+}
+.expand_icon.down_icon, .expand_icon.up_icon {
+  width: 20%; 
+}
+#sendLinks_wrapper form .submit_send {
+  margin: 88% 0 0;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+#sendLinks_wrapper form .submit_send {
+  margin: 90% 0 0!important;
+}
+.ad_gen_left select {
+   margin-top: 0;
+}
+.ad_gen_left input {
+    padding: 3.2% 4%!important;
+}
+}
+.download-icon {
+  width: 6%;
+}
+span.upload, span.drag {
+  top: 180px;
+}
+.footer {
+  width: 16.9em;
+}
+.footer-logo {
+  height: 50px;
+  width: 150px;
+  background-size: auto 63%!important;
+  margin-top: 13%;
+  margin-bottom: 3%;
+}
+.footer-logo.adm-logo{
+  margin-top:6%;
+}
+#copyright.admin-copy {
+    margin-top: 7%;
+}
+#copyright {
+  margin-top: 14%;
+}
+/*====Installation CSS==*/
+#install fieldset, #install + fieldset {
+  max-width: 16.5em;
+  min-height: 22em;
+}
+#install table tr:first-child td {
+  background: #d6d6d6 none repeat scroll 0 0;
+}
+.step-active, .step-disabled {
+  background: #9b9b9b none repeat scroll 0 0;
+  color: #ffffff;
+  float: left;
+  height: 28px;
+  margin-left: 0.5%;
+  padding: 6px 0;
+  text-align: center;
+  width: 3.22em;
+}
+#install table tr.nav td.inst-none {
+  display: none;
+}	
+#install table tr td.field input#admin_password {
+  width: 92%;
+}
+#install table tr td.info.pass, #install table tr td.info.choose-lang, #install table tr td.info.base {
+  width: 95%;
+}
+#install table tr td.nav.next {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#install table tr.nav td.adm-pas.next .next-right {
+  float: left;
+  width: 96%;
+  margin-top: 3%;
+}
+.field > input#input_var_root, .field > input#input_web_root {
+  width: 93% !important;
+}
+.field.email-pad > input, .field > input#input_sender_name {
+  width: 92% !important;
+}
+#install table tr td.info.set-website-url, #install table tr td.info.set-website-url-admin {
+  width: 96%;
+}
+.message {
+  padding: 0;
+}
+#install table tr td.info {
+  width: 94%;
+}
+#install input.navleft {
+  width: 96%;
+}
+.email-btns {
+  margin-top: 3%;
+}
+tr.email-btns td .navleft, tr.email-btns td .navright {
+  margin-top: 3%!important;
+  width: 100% !important;
+}
+.navright.url-nxt {
+  text-align: justify!important;
+  float: left!important;
+  width: 96%;
+  margin-top: 3%!important;
+  padding-left: 20%!important;
+}
+#install table tr td.field select {
+  width: 95%;
+  -moz-appearance: none;
+}
+.inst-non {
+  display: none;
+}
+.nav.next, .nav.next input {
+  float: left;
+}
+.nav.next input {
+  margin-top: 1em !important;
+  width: 93%;
+}
+#install table tr.nav {
+  margin-top: 3%;
+}
+.footer-install {
+  width: 275px;
+}
+/*====Installation CSS Ends==*/
+
+/*====Admin CSS==*/
+.ad_setting_fiels > form #ad_settings_detail {
+  float: left;
+  width: 98%;
+}
+ul.etabs, .ad_typekit_left, .ad_typekit_right {
+  width: 100%;
+}
+input.ad_type_normal, input.ad_type_bold, input.ad_type_optional {
+  background: #f2f2f2 none repeat scroll 0 0;
+  padding: 10px 10px 10px 32px;
+  width: 42%;
+  text-align: right;
+}
+.ad_typekit_left {
+  margin-bottom: 5%;
+}
+.ad_shar_detail {
+  float: left;
+  width: 98%;
+}
+.tab, .tab.active {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout {
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout input {
+  width: 100%;
+}
+.ad_gen_left {
+  width: 100%;
+}
+.ad_gen_left select{
+  width: 81%;
+}
+.main-color, .background-color {
+  width: 100%;
+}
+.asColorPicker-wrap {
+  background: rgba(0, 0, 0, 0) url("color_picker_activ.svg") no-repeat scroll 43% center / auto 72%;
+}
+.asColorPicker-wrap input {
+  width: 31%;
+}
+span.m_color {
+  width: 18%;
+}
+.background-color {
+  margin-top: 5%;
+}
+.logo_heading > h1, .fav_heading > h1 {
+  width: 29%;
+}
+.logo_heading > p {
+  width: 67% !important;
+}
+#preview_retina {
+  width: 280px;
+}
+.ad_stng > input {
+  width: 58%;
+}
+#ad_settings_form #ad_settings_detail .ad_sttng > input {
+  width: 70%;
+}
+#ad_settings_detail .ad_txt {
+  margin-top: -3px;
+}
+.settings_btn {
+  float: right;
+}
+
+/*====General CSS==*/
+.ad_gen_left select {
+  width: 80%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  width: 98%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  margin-top: 1em;
+  width: 98%;
+}
+.search-container {
+  width: 100%;
+}
+.ad_gen_right input#name {
+  width: 67%;
+}
+.ad_gen_right select {
+  width: 30%;
+  margin-bottom: 0.15em;
+}
+.ad_gen_right input {
+  margin-left: 0;
+  margin-top: 0.5em;
+}
+.ad_gen_right input#name{
+	margin-top: 0;
+}
+#svg-count-done {
+  margin-left: 15.5%;
+}
+/*====General CSS Ends==*/
+
+
+/*====Admin CSS Ends==*/
+}
+
+
+@media (min-width: 321px) and (max-width: 375px) {
+fieldset, #upload_finished, body._drag .bgImg-first::before, #upload_done, #cancel_container, #uploading, #sendLinks_wrapper, #mail_sent, .terms-containers {
+  min-height: 29em;
+  width: 20em;
+}
+
+fieldset.logins-wrapper{
+ min-height: 30em;
+}
+
+.footer-logo {
+  height: 50px;
+  width: 150px;
+  background-size: auto 63%!important;
+  margin-top: 13%;
+  margin-bottom: 3%;
+}
+.f_name{
+  width: 68%;
+}
+.f_size {
+  width: 28%;
+}
+.current_file_name {
+  width: 59%;
+}
+.current_file_size {	
+  width: 28%;
+}
+#left_files {
+  width: 40%;
+}
+.dwn_fieldset .f_name {
+  width: 60%;
+}
+.expand_icon.down_icon, .expand_icon.up_icon {
+  width: 20%; 
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0){
+#sendLinks_wrapper form .submit_send {
+  margin: 90% 0 0!important;
+}
+.ad_gen_right input#name {
+    width: 66%;
+}
+.ad_gen_left select {
+   margin-top: 0;
+}
+.ad_gen_left input {
+    padding: 2.7% 4%!important;
+}
+}
+#sendLinks_wrapper form .submit_send {
+  margin: 97% 0 0;
+}
+.download-icon { 
+  width: 6%;
+}
+span.upload, span.drag {
+  top: 180px;
+}
+.footer {
+  width: 19.5em;
+}
+.footer-logo {
+  margin-top: 7%;
+}
+#copyright {
+  margin-top: 6%;
+  width: 9em;
+}
+
+/*====Installation CSS==*/
+#install fieldset, #install + fieldset {
+  max-width: 28em;
+  min-height: 22em;
+}
+.step-active, .step-disabled {
+  background: #9b9b9b none repeat scroll 0 0;
+  color: #ffffff;
+  float: left;
+  height: 28px;
+  margin-left: 0.5%;
+  padding: 6px 0;
+  text-align: center;
+  width: 3.22em;
+}
+#install table tr.nav td.inst-none {
+  display: none;
+}	
+#install table tr td.field input#admin_password {
+  width: 92%;
+}
+#install table tr td.info.pass, #install table tr td.info.choose-lang, #install table tr td.info.base {
+  width: 95%;
+}
+#install table tr td.nav.next {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#install table tr.nav td.adm-pas.next .next-right {
+  float: left;
+  width: 96%;
+  margin-top: 3%;
+}
+.field > input#input_var_root, .field > input#input_web_root {
+  width: 93% !important;
+}
+.field.email-pad > input, .field > input#input_sender_name {
+  width: 92% !important;
+}
+#install table tr td.info.set-website-url, #install table tr td.info.set-website-url-admin {
+  width: 96%;
+}
+.message {
+  padding: 0;
+}
+#install table tr td.info {
+  width: 94%;
+}
+#install input.navleft {
+  width: 96%;
+}
+.email-btns {
+  margin-top: 3%;
+}
+tr.email-btns td .navleft, tr.email-btns td .navright {
+  margin-top: 3%!important;
+  width: 100% !important;
+}
+.navright.url-nxt {
+  float: left!important;
+  width: 96%;
+  margin-top: 3%!important;
+  padding-left: 26%!important;
+}
+#install table tr td.field select {
+  width: 95%;
+  -moz-appearance: none;
+}
+.inst-non {
+  display: none;
+}
+.nav.next, .nav.next input {
+  float: left;
+}
+.nav.next input {
+  margin-top: 1em !important;
+  width: 93%;
+}
+#install table tr.nav {
+  margin-top: 3%;
+}
+.footer-install {
+  width: 275px;
+}
+/*====Installation CSS Ends==*/
+
+/*====Admin CSS==*/
+ul.etabs, .ad_typekit_left, .ad_typekit_right {
+  width: 100%;
+}
+input.ad_type_normal, input.ad_type_bold, input.ad_type_optional {
+  background: #f2f2f2 none repeat scroll 0 0;
+  padding: 10px 10px 10px 32px;
+  width: 35%;
+  text-align: right;
+}
+.ad_typekit_left {
+  margin-bottom: 5%;
+}
+.ad_shar_detail {
+  float: left;
+  width: 98%;
+}
+.ad_setting_fiels > form #ad_settings_detail {
+  width: 98%;
+}
+.tab, .tab.active {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout {
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout input {
+  width: 100%;
+}
+.ad_gen_left {
+  width: 100%;
+}
+.ad_gen_left select{
+  width: 81%;
+}
+.main-color, .background-color {
+  width: 100%;
+}
+.asColorPicker-wrap {
+  background: rgba(0, 0, 0, 0) url("color_picker_activ.svg") no-repeat scroll 43% center / auto 72%;
+}
+.asColorPicker-wrap input {
+  width: 31%;
+}
+span.m_color {
+  width: 18%;
+}
+.background-color {
+  margin-top: 5%;
+}
+.logo_heading > h1, .fav_heading > h1 {
+  width: 29%;
+}
+.logo_heading > p {
+  width: 67% !important;
+}
+#preview_retina {
+  width: 296px;
+}
+.ad_stng > input {
+  width: 58%;
+}
+.ad_sttng > input {
+  padding: 0.5em 2%;
+  width: 73%;
+}
+#ad_settings_detail .ad_txt {
+  margin-top: 7px;
+}
+.settings_btn {
+  float: right;
+}
+/*====General CSS==*/
+.ad_gen_left select {
+  width: 82%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  width: 98%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  margin-top: 1em;
+  width: 98%;
+}
+.search-container {
+  width: 100%;
+}
+.ad_gen_right input#name {
+  width: 67%;
+}
+.ad_gen_right select {
+  width: 31%;
+  margin-bottom: 0.15em;
+}
+.ad_gen_right input {
+  margin-left: 0;
+  margin-top: 0.5em;
+}
+.ad_gen_right input#name{
+	margin-top: 0;
+}
+#svg-count-done {
+  margin-left: 20.5%;
+}
+/*====General CSS Ends==*/
+/*====Admin CSS Ends==*/
+}
+@media (min-width: 376px) and (max-width: 384px) {
+.footer-logo {
+  height: 50px;
+  width: 150px;
+  background-size: auto 63%!important;
+  margin-top: 13%;
+  margin-bottom: 3%;
+}	
+.f_name{
+  width: 68%;
+}
+.f_size {
+  width: 28%;
+}
+.current_file_name {
+  width: 59%;
+}
+.current_file_size {	
+  width: 28%;
+}
+#left_files {
+  width: 40%;
+}
+.dwn_fieldset .f_name {
+  width: 60%;
+}
+.expand_icon.down_icon, .expand_icon.up_icon {
+  width: 20%; 
+}	
+	
+	
+@media screen and (-webkit-min-device-pixel-ratio:0){
+#sendLinks_wrapper form .submit_send {
+  margin: 99% 0 0!important;
+}
+} 
+#content {
+  padding-top: 0;
+}
+#sendLinks_wrapper form .submit_send {
+  margin: 97% 0 0;
+}
+.download-icon {
+  width: 6%;
+}
+fieldset, #upload_finished, body._drag .bgImg-first::before, #upload_done, #cancel_container, #uploading, #sendLinks_wrapper, #mail_sent, .terms-containers {
+  min-height: 29em;
+  width: 20em;
+}
+span.upload, span.drag {
+  top: 180px;
+}
+.footer {
+  width: 19.5em;
+}
+.footer-logo {
+  margin-top: 6%;
+}
+#copyright {
+  margin-top: 6%;
+  width: 9em;
+}
+
+/*====Installation CSS==*/
+#install fieldset, #install + fieldset {
+  max-width: 28em;
+  min-height: 22em;
+}
+.step-active, .step-disabled {
+  background: #9b9b9b none repeat scroll 0 0;
+  color: #ffffff;
+  float: left;
+  height: 28px;
+  margin-left: 0.5%;
+  padding: 6px 0;
+  text-align: center;
+  width: 3.22em;
+}
+#install table tr.nav td.inst-none {
+  display: none;
+}	
+#install table tr td.field input#admin_password {
+  width: 92%;
+}
+#install table tr td.info.pass, #install table tr td.info.choose-lang, #install table tr td.info.base {
+  width: 95%;
+}
+#install table tr td.nav.next {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#install table tr.nav td.adm-pas.next .next-right {
+  float: left;
+  width: 96%;
+  margin-top: 3%;
+}
+.field > input#input_var_root, .field > input#input_web_root {
+  width: 93% !important;
+}
+.field.email-pad > input, .field > input#input_sender_name {
+  width: 92% !important;
+}
+#install table tr td.info.set-website-url, #install table tr td.info.set-website-url-admin {
+  width: 96%;
+}
+.message {
+  padding: 0;
+}
+#install table tr td.info {
+  width: 94%;
+}
+#install input.navleft {
+  width: 96%;
+}
+.email-btns {
+  margin-top: 3%;
+}
+tr.email-btns td .navleft, tr.email-btns td .navright {
+  margin-top: 3%!important;
+  width: 100% !important;
+}
+.navright.url-nxt {
+  float: left!important;
+  width: 96%;
+  margin-top: 3%!important;
+  padding-left: 24%!important;
+}
+#install table tr td.field select {
+  width: 95%;
+  -moz-appearance: none;
+}
+.inst-non {
+  display: none;
+}
+.nav.next, .nav.next input {
+  float: left;
+}
+.nav.next input {
+  margin-top: 1em !important;
+  width: 93%;
+}
+#install table tr.nav {
+  margin-top: 3%;
+}
+.footer-install {
+  width: 275px;
+}
+/*====Installation CSS Ends==*/
+
+/*====Admin CSS==*/
+.ad_setting_fiels > form #ad_settings_detail {
+  width: 98%;
+}
+ul.etabs, .ad_typekit_left, .ad_typekit_right {
+  width: 100%;
+}
+input.ad_type_normal, input.ad_type_bold, input.ad_type_optional {
+  background: #f2f2f2 none repeat scroll 0 0;
+  padding: 10px 10px 10px 32px;
+  width: 30%;
+}
+.ad_typekit_left {
+  margin-bottom: 5%;
+}
+.ad_shar_detail {
+  float: left;
+  width: 98%;
+}
+.tab, .tab.active {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout {
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout input {
+  width: 100%;
+}
+.ad_gen_left {
+  width: 100%;
+}
+.ad_gen_left select{
+  width: 81%;
+}
+.main-color, .background-color {
+  width: 100%;
+}
+.asColorPicker-wrap {
+  background: rgba(0, 0, 0, 0) url("color_picker_activ.svg") no-repeat scroll 43% center / auto 72%;
+}
+.asColorPicker-wrap input {
+  width: 31%;
+}
+span.m_color {
+  width: 18%;
+}
+.background-color {
+  margin-top: 5%;
+}
+.logo_heading > h1, .fav_heading > h1 {
+  width: 29%;
+}
+.logo_heading > p {
+  width: 67% !important;
+}
+#preview_retina {
+  width: 296px;
+}
+.ad_stng > input {
+  width: 58%;
+}
+.ad_sttng > input {
+  padding: 0.5em 2%;
+  width: 69%;
+}
+#ad_settings_detail .ad_txt {
+  margin-top: 7px;
+}
+.settings_btn {
+  float: right;
+}
+/*====General CSS==*/
+.ad_gen_left select {
+  width: 81%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  width: 98%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  margin-top: 1em;
+  width: 98%;
+}
+.search-container {
+  width: 100%;
+}
+.ad_gen_right input#name {
+  width: 67%;
+}
+.ad_gen_right select {
+  width: 31%;
+  margin-bottom: 0.15em;
+}
+.ad_gen_right input {
+  margin-left: 0;
+  margin-top: 0.5em;
+}
+.ad_gen_right input#name{
+	margin-top: 0;
+}
+/*====General CSS Ends==*/
+/*====Admin CSS Ends==*/
+}
+@media (min-width: 385px) and (max-width: 414px) {
+.footer-logo {
+  height: 50px;
+  width: 150px;
+  background-size: auto 63%!important;
+  margin-top: 13%;
+  margin-bottom: 3%;
+}
+.f_name{
+  width: 68%;
+}
+.f_size {
+  width: 28%;
+}
+.current_file_name {
+  width: 59%;
+}
+.current_file_size {	
+  width: 28%;
+}
+#left_files {
+  width: 40%;
+}
+.dwn_fieldset .f_name {
+  width: 60%;
+}
+.expand_icon.down_icon, .expand_icon.up_icon {
+  width: 20%; 
+}
+
+	
+@media screen and (-webkit-min-device-pixel-ratio:0){
+#sendLinks_wrapper form .submit_send {
+  margin: 90% 0 0!important;
+}
+.ad_gen_right input#name {
+    width: 66%;
+}
+.ad_gen_left select {
+   margin-top: 0;
+}
+.ad_gen_left input {
+    padding: 2.7% 4%!important;
+}
+}
+#content {
+  padding-top: 0;
+}
+#sendLinks_wrapper form .submit_send {
+  margin: 83% 0 0;
+}
+.download-icon {
+  width: 6%;
+}
+fieldset, #upload_finished, body._drag .bgImg-first::before, #upload_done, #cancel_container, #uploading, #sendLinks_wrapper, #mail_sent, .terms-containers {
+  min-height: 29em;
+  width: 23em;
+}
+span.upload, span.drag {
+  top: 180px;
+}
+.footer {
+  width: 22.5em;
+}
+.footer-logo {
+  margin-top: 6%;
+}
+#copyright {
+  margin-top: 7%;
+}
+
+/*====Installation CSS==*/
+#install fieldset, #install + fieldset {
+  max-width: 28em;
+  min-height: 22em;
+}
+.step-active, .step-disabled {
+  background: #9b9b9b none repeat scroll 0 0;
+  color: #ffffff;
+  float: left;
+  height: 28px;
+  margin-left: 0.5%;
+  padding: 6px 0;
+  text-align: center;
+  width: 3.22em;
+}
+#install table tr.nav td.inst-none {
+  display: none;
+}	
+#install table tr td.field input#admin_password {
+  width: 92%;
+}
+#install table tr td.info.pass, #install table tr td.info.choose-lang, #install table tr td.info.base {
+  width: 95%;
+}
+#install table tr td.nav.next {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#install table tr.nav td.adm-pas.next .next-right {
+  float: left;
+  width: 96%;
+  margin-top: 3%;
+}
+.field > input#input_var_root, .field > input#input_web_root {
+  width: 93% !important;
+}
+.field.email-pad > input, .field > input#input_sender_name {
+  width: 92% !important;
+}
+#install table tr td.info.set-website-url, #install table tr td.info.set-website-url-admin {
+  width: 96%;
+}
+.message {
+  padding: 0;
+}
+#install table tr td.info {
+  width: 94%;
+}
+#install input.navleft {
+  width: 96%;
+}
+.email-btns {
+  margin-top: 3%;
+}
+tr.email-btns td .navleft, tr.email-btns td .navright {
+  margin-top: 3%!important;
+  width: 100% !important;
+}
+.navright.url-nxt {
+  float: left!important;
+  width: 96%;
+  margin-top: 3%!important;
+  padding-left: 27%!important;
+}
+#install table tr td.field select {
+  width: 95%;
+  -moz-appearance: none;
+}
+.inst-non {
+  display: none;
+}
+.nav.next, .nav.next input {
+  float: left;
+}
+.nav.next input {
+  margin-top: 1em !important;
+  width: 93%;
+}
+#install table tr.nav {
+  margin-top: 3%;
+}
+.footer-install {
+  width: 275px;
+}
+/*====Installation CSS Ends==*/
+
+/*====Admin CSS==*/
+ul.etabs, .ad_typekit_left, .ad_typekit_right {
+  width: 100%;
+}
+input.ad_type_normal, input.ad_type_bold, input.ad_type_optional {
+  background: #f2f2f2 none repeat scroll 0 0;
+  padding: 10px 10px 10px 32px;
+  width: 30%;
+  text-align: right;
+}
+.ad_typekit_left {
+  margin-bottom: 5%;
+}
+.ad_setting_fiels > form #ad_settings_detail {
+  width: 98%;
+}
+.ad_shar_detail {
+  float: left;
+  width: 98%;
+}
+.tab, .tab.active {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout {
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout input {
+  width: 100%;
+}
+.ad_gen_left {
+  width: 100%;
+}
+.ad_gen_left select{
+  width: 81%;
+}
+.main-color, .background-color {
+  width: 100%;
+}
+.asColorPicker-wrap {
+  background: rgba(0, 0, 0, 0) url("color_picker_activ.svg") no-repeat scroll 43% center / auto 72%;
+}
+.asColorPicker-wrap input {
+  width: 31%;
+}
+span.m_color {
+  width: 18%;
+}
+.background-color {
+  margin-top: 5%;
+}
+.logo_heading > h1, .fav_heading > h1 {
+  width: 29%;
+}
+.logo_heading > p {
+  width: 67% !important;
+}
+#preview_retina {
+  width: 365px;
+}
+.ad_stng > input {
+  width: 58%;
+}
+.ad_sttng > input {
+  padding: 0.5em 2%;
+  width: 76%;
+}
+#ad_settings_detail .ad_txt {
+  margin-top: 7px;
+}
+.settings_btn {
+  float: right;
+}
+/*====General CSS==*/
+.ad_gen_left select {
+  width: 83%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  width: 98%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  margin-top: 1em;
+  width: 98%;
+}
+.search-container {
+  width: 100%;
+}
+.ad_gen_right input#name {
+  width: 67%;
+}
+.ad_gen_right select {
+  width: 31%;
+  margin-bottom: 0.15em;
+}
+.ad_gen_right input {
+  margin-left: 0;
+  margin-top: 0.5em;
+}
+.ad_gen_right input#name{
+	margin-top: 0;
+}
+/*====General CSS Ends==*/
+/*====Admin CSS Ends==*/
+}
+@media (min-width: 415px) and (max-width: 568px) {
+
+/*====Admin CSS==*/
+ul.etabs, .ad_typekit_left, .ad_typekit_right {
+  width: 100%;
+}
+.footer-logo.adm-logo{
+  margin-top:5%;
+}
+.ad_single_cover:first-child .ad_file_name, .ad_file_name {
+  width: 15%;
+}
+.footer {
+  margin: 5% auto 7.3%;
+}
+#copyright.admin-copy {
+    margin-top: 7.5%;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.ad_gen_left select {
+   margin-top: 0;
+}
+.ad_gen_right input{
+	padding: 1.8% 2%;
+}
+}
+input.ad_type_normal, input.ad_type_bold, input.ad_type_optional {
+  background: #f2f2f2 none repeat scroll 0 0;
+  padding: 10px 10px 10px 32px;
+  text-align: right;
+  width: 30%;
+}
+.ad_single_cover:first-child .ad_file_size, .ad_file_size {
+  width: 8%;
+}
+.ad_gen_bottom_right select {
+  padding-right: 40%;
+}
+div.pagination span.current, .pagination a {
+  width: 6%;
+}
+.ad_single_cover:first-child .ad_file_once, .ad_single_cover .ad_file_once {
+  width: 7%;
+}
+.ad_file_act_sh input, .ad_file_act_del input {
+  height: 28px;
+  width: 24px;
+}
+.ad_file_action{
+  margin-top: 2%;
+}
+.ad_single_cover:first-child .ad_file_action{
+ margin-top: 0px;
+} 
+.ad_file_exp, .ad_single_cover:first-child .ad_file_exp, .ad_file_date, .ad_single_cover:first-child .ad_file_date {
+  width: 16%;
+}
+.ad_typekit_left {
+  margin-bottom: 5%;
+} 
+.ad_setting_fiels > form #ad_settings_detail {
+  float: left;
+  width: 72%;
+}
+.ad_shar_detail {
+  float: left;
+  width: 98%;
+}
+.tab, .tab.active {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout {
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout input {
+  width: 100%;
+}
+.ad_gen_left {
+  width: 100%;
+}
+.ad_gen_left select{
+  width: 81%;
+}
+.main-color, .background-color {
+  width: 100%;
+}
+.asColorPicker-wrap {
+  background: rgba(0, 0, 0, 0) url("color_picker_activ.svg") no-repeat scroll 43% center / auto 72%;
+}
+.asColorPicker-wrap input {
+  width: 31%;
+}
+span.m_color {
+  width: 18%;
+}
+.background-color {
+  margin-top: 5%;
+}
+.logo_heading > h1, .fav_heading > h1 {
+  width: 29%;
+}
+.logo_heading > p {
+  width: 67% !important;
+}
+#preview_retina {
+  width: 380px;
+}
+.logo_retina_upload{
+	width: 18%;
+}
+.ad_stng > input {
+  width: 58%;
+}
+.ad_sttng > input {
+  padding: 0.5em 2%;
+  width: 79%;
+}
+#ad_settings_detail .ad_txt {
+  margin-top: 7px;
+}
+.settings_btn {
+  float: right;
+}
+/*====General CSS==*/
+.ad_gen_left select {
+  width: 85%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  width: 100%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  margin-top: 1em;
+  width: 100%;
+}
+.search-container {
+  width: 83%;
+  height: 38px;
+}
+.ad_gen_right input#name {
+  width: 67%;
+}
+.ad_gen_right select {
+  width: 31%;
+  margin-bottom: 0.15em;
+}
+.ad_gen_right input {
+  margin-left: 1%;
+  margin-top:0
+}
+.ad_gen_right input#name{
+	margin-top: 0;
+}
+/*====General CSS Ends==*/
+/*====Admin CSS Ends==*/
+
+/*====Installation CSS==*/
+#install fieldset, #install + fieldset {
+  max-width: 30em;
+  min-height: 22em;
+}
+#install table tr td.info.choose-lang, #install table tr td.info.base {
+  width: 97%;
+}
+.step-active, .step-disabled {
+  background: #9b9b9b none repeat scroll 0 0;
+  color: #ffffff;
+  float: left;
+  height: 28px;
+  margin-left: 0.5%;
+  padding: 6px 0;
+  text-align: center;
+  width: 3.22em;
+}
+#install table tr.nav td.inst-none {
+  display: none;
+}	
+#install table tr td.field input#admin_password {
+  width: 92%;
+}
+#install table tr td.info.pass, #install table tr td.info.choose-lang, #install table tr td.info.base {
+  width: 95%;
+}
+#install table tr td.nav.next {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#install table tr.nav td.adm-pas.next .next-right {
+  float: left;
+  width: 96%;
+  margin-top: 3%;
+}
+.field > input#input_var_root, .field > input#input_web_root {
+  width: 93% !important;
+}
+.field.email-pad > input, .field > input#input_sender_name {
+  width: 92% !important;
+}
+#install table tr td.info.set-website-url, #install table tr td.info.set-website-url-admin {
+  width: 96%;
+}
+.message {
+  padding: 0;
+}
+#install table tr td.info {
+  width: 94%;
+}
+#install input.navleft {
+  width: 96%;
+}
+.email-btns {
+  margin-top: 3%;
+}
+tr.email-btns td .navleft, tr.email-btns td .navright {
+  margin-top: 3%!important;
+  width: 100% !important;
+}
+.navright.url-nxt {
+  float: left !important;
+  margin-top: 3% !important;
+  padding-left: 34% !important;
+  width: 96%;
+}
+#install table tr td.field select {
+  width: 95%;
+  -moz-appearance: none;
+}
+.inst-non {
+  display: none;
+}
+.nav.next, .nav.next input {
+  float: left;
+}
+.nav.next input {
+  margin-top: 1em !important;
+  width: 93%;
+}
+#install table tr.nav {
+  margin-top: 3%;
+}
+.footer-install {
+  width: 275px;
+}
+/*====Installation CSS Ends==*/
+
+}
+@media (min-width: 569px) and (max-width: 600px) {
+
+.footer-install {
+  width: 30em;
+}
+#install table tr td.info.choose-lang, #install table tr td.info.base {
+  width: 97%;
+}
+/*====Admin CSS==*/
+ul.etabs, .ad_typekit_left, .ad_typekit_right {
+  width: 100%;
+}
+input.ad_type_normal, input.ad_type_bold, input.ad_type_optional {
+  background: #f2f2f2 none repeat scroll 0 0;
+  padding: 10px 10px 10px 32px;
+  width: 30%;
+}
+.ad_setting_fiels > form #ad_settings_detail {
+  width: 80%;
+}
+.ad_typekit_left {
+  margin-bottom: 5%;
+}
+.ad_shar_detail {
+  float: left;
+  width: 98%;
+}
+.tab, .tab.active {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout {
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout input {
+  width: 100%;
+}
+.ad_gen_left {
+  width: 100%;
+}
+.ad_gen_left select{
+  width: 81%;
+}
+.main-color, .background-color {
+  width: 100%;
+}
+.asColorPicker-wrap {
+  background: rgba(0, 0, 0, 0) url("color_picker_activ.svg") no-repeat scroll 43% center / auto 72%;
+}
+.asColorPicker-wrap input {
+  width: 31%;
+}
+span.m_color {
+  width: 18%;
+}
+.background-color {
+  margin-top: 5%;
+}
+.logo_heading > h1, .fav_heading > h1 {
+  width: 29%;
+}
+.logo_heading > p {
+  width: 67% !important;
+}
+#preview_retina {
+  width: 380px;
+}
+.ad_stng > input {
+  width: 58%;
+}
+.ad_sttng > input {
+  padding: 0.5em 2%;
+  width: 81%;
+}
+#ad_settings_detail .ad_txt {
+  margin-top: 7px;
+}
+.settings_btn {
+  float: right;
+}
+/*==Admin css ends==*/
+
+/*====Installation CSS==*/
+#install fieldset, #install + fieldset {
+  max-width: 30em;
+  min-height: 24em;
+}
+.step-active, .step-disabled {
+  background: #9b9b9b none repeat scroll 0 0;
+  color: #ffffff;
+  float: left;
+  height: 28px;
+  margin-left: 0.5%;
+  padding: 6px 0;
+  text-align: center;
+  width: 3.22em;
+}
+#install table tr.nav td.inst-none {
+  display: none;
+}	
+#install table tr td.field input#admin_password {
+  width: 92%;
+}
+#install table tr td.info.pass, #install table tr td.info.choose-lang, #install table tr td.info.base {
+  width: 95%;
+}
+#install table tr td.nav.next {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#install table tr.nav td.adm-pas.next .next-right {
+  float: left;
+  width: 96%;
+  margin-top: 3%;
+}
+.field > input#input_var_root, .field > input#input_web_root {
+  width: 93% !important;
+}
+.field.email-pad > input, .field > input#input_sender_name {
+  width: 92% !important;
+}
+#install table tr td.info.set-website-url, #install table tr td.info.set-website-url-admin {
+  width: 96%;
+}
+.message {
+  padding: 0;
+}
+#install table tr td.info {
+  width: 94%;
+}
+#install input.navleft {
+  width: 96%;
+}
+.email-btns {
+  margin-top: 3%;
+}
+tr.email-btns td .navleft, tr.email-btns td .navright {
+  margin-top: 3%!important;
+  width: 100% !important;
+}
+.navright.url-nxt {
+  text-align: justify!important;
+  float: left!important;
+  width: 96%;
+  margin-top: 3%!important;
+  padding-left: 31%!important;
+}
+#install table tr td.field select {
+  width: 95%;
+  -moz-appearance: none;
+}
+.inst-non {
+  display: none;
+}
+.nav.next, .nav.next input {
+  float: left;
+}
+.nav.next input {
+  margin-top: 1em !important;
+  width: 93%;
+}
+#install table tr.nav {
+  margin-top: 3%;
+}
+.footer-install {
+  width: 275px;
+}
+/*====Installation CSS Ends==*/
+
+}
+@media (min-width: 601px) and (max-width: 667px) {
+	
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.ad_gen_bottom_right select {
+   padding-right: 40%;
+}
+}
+.footer-logo {
+  margin-top: 5%;
+}
+#copyright {
+  margin-top: 4%;
+}
+.footer-install {
+  width: 30em;
+}
+#install table tr td.info.choose-lang, #install table tr td.info.base {
+  width: 97%;
+}
+/*====Admin CSS==*/
+ul.etabs, .ad_typekit_left, .ad_typekit_right {
+  width: 100%;
+}
+.ad_gen_right {
+  margin-left: 0;
+  width: 100%;
+}
+input.ad_type_normal, input.ad_type_bold, input.ad_type_optional {
+  background: #f2f2f2 none repeat scroll 0 0;
+  padding: 10px 10px 10px 32px;
+  width: 30%;
+  text-align: right;
+}
+#copyright.admin-copy {
+  margin-top:8%;
+}
+.ad_typekit_left {
+  margin-bottom: 5%;
+}
+.ad_setting_fiels > form #ad_settings_detail {
+  float: left;
+  width: 75%;
+}
+.ad_shar_detail {
+  float: left;
+  width: 98%;
+}
+.tab, .tab.active {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout {
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logout input {
+  width: 100%;
+}
+.ad_gen_left {
+  width: 100%;
+}
+.ad_gen_left select {
+  width: 86%;
+}
+.search-container {
+  width: 85%;
+}
+.ad_gen_right {
+  margin-top: 1em;
+}
+.ad_file_name, .ad_single_cover:first-child .ad_file_name {
+  width: 18.6%;
+}
+.ad_single_cover:first-child .ad_file_size, .ad_file_size {
+  width: 8%;
+}
+.ad_single_cover:first-child .ad_file_once, .ad_single_cover .ad_file_once {
+  width: 8%;
+}
+.ad_file_ip, .ad_single_cover:first-child .ad_file_ip {
+  width: 14%;
+}
+.main-color, .background-color {
+  width: 100%;
+}
+.asColorPicker-wrap {
+  background: rgba(0, 0, 0, 0) url("color_picker_activ.svg") no-repeat scroll 43% center / auto 72%;
+}
+.asColorPicker-wrap input {
+  width: 31%;
+}
+span.m_color {
+  width: 18%;
+}
+.pagination {
+  margin-top: 5%;
+}
+div.pagination span.current, .pagination a {
+  width: 5%;
+}
+.background-color {
+  margin-top: 5%;
+}
+.ad_gen_bottom_right {
+  margin-top: 5%;
+  width: 17%;
+}
+.logo_heading > h1, .fav_heading > h1 {
+  width: 29%;
+}
+.logo_heading > p {
+  width: 67% !important;
+}
+#preview_retina {
+  width: 380px;
+}
+.ad_stng > input {
+  width: 58%;
+}
+.ad_sttng > input {
+  padding: 0.5em 2%;
+  width: 82%;
+}
+#ad_settings_detail .ad_txt {
+  margin-top: 7px;
+}
+.settings_btn {
+  float: right;
+}
+/*==Admin Css Ends==*/
+
+/*====Installation CSS==*/
+#install fieldset, #install + fieldset {
+  max-width: 30em;
+  min-height: 24em;
+}
+.step-active, .step-disabled {
+  background: #9b9b9b none repeat scroll 0 0;
+  color: #ffffff;
+  float: left;
+  height: 28px;
+  margin-left: 0.5%;
+  padding: 6px 0;
+  text-align: center;
+  width: 3.22em;
+}
+#install table tr.nav td.inst-none {
+  display: none;
+}	
+#install table tr td.field input#admin_password {
+  width: 92%;
+}
+#install table tr td.info.pass, #install table tr td.info.choose-lang, #install table tr td.info.base {
+  width: 95%;
+}
+#install table tr td.nav.next {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#install table tr.nav td.adm-pas.next .next-right {
+  float: left;
+  width: 96%;
+  margin-top: 3%;
+}
+.field > input#input_var_root, .field > input#input_web_root {
+  width: 93% !important;
+}
+.field.email-pad > input, .field > input#input_sender_name {
+  width: 92% !important;
+}
+#install table tr td.info.set-website-url, #install table tr td.info.set-website-url-admin {
+  width: 96%;
+}
+.message {
+  padding: 0;
+}
+#install table tr td.info {
+  width: 94%;
+}
+#install input.navleft {
+  width: 96%;
+}
+.email-btns {
+  margin-top: 3%;
+}
+tr.email-btns td .navleft, tr.email-btns td .navright {
+  margin-top: 3%!important;
+  width: 100% !important;
+}
+.navright.url-nxt {
+  float: left!important;
+  width: 96%;
+  margin-top: 3%!important;
+  padding-left: 32%!important;
+}
+#install table tr td.field select {
+  width: 95%;
+  -moz-appearance: none;
+}
+.inst-non {
+  display: none;
+}
+.nav.next, .nav.next input {
+  float: left;
+}
+.nav.next input {
+  margin-top: 1em !important;
+  width: 93%;
+}
+#install table tr.nav {
+  margin-top: 3%;
+}
+.footer-install {
+  width: 275px;
+}
+/*====Installation CSS Ends==*/
+
+}
+@media (min-width: 668px) and (max-width: 736px) {
+	
+@media screen and (-webkit-min-device-pixel-ratio:0){
+#sendLinks_wrapper form .submit_send {
+  margin: 90% 0 0!important;
+}
+.ad_gen_right input#name {
+    width: 58%;
+}
+.ad_gen_left select {
+   margin-top: 0;
+}
+.ad_gen_right select {
+    width: 38%;
+}
+.ad_gen_left input {
+    padding: 2.7% 4%!important;
+}
+}
+#install fieldset, #install + fieldset {
+  max-width: 40em;
+}
+.ad_gen_left select{
+  width: 81%;
+}
+.search-container {
+  width: 76%;
+}
+.ad_gen_right input#name {
+  width: 64%;
+}
+.ad_gen_right select {
+  width: 33%;
+}
+.ad_file_ip, .ad_single_cover:first-child .ad_file_ip {
+  width: 13%;
+}
+.ad_file_name, .ad_single_cover:first-child .ad_file_name {
+  width: 16.6%;
+}
+.ad_single_cover:first-child .ad_file_size, .ad_file_size {
+  width: 8%;
+}
+.ad_file_type, .ad_single_cover:first-child .ad_file_type {
+	width: 9.5%;
+}
+.ad_gen_bottom_right select {
+  padding-right: 38%;
+}
+div.pagination span.current, .pagination a {
+  width: 4.7%;
+}
+.ad_file_exp, .ad_file_date, .ad_single_cover:first-child .ad_file_exp, .ad_single_cover:first-child .ad_file_date {
+  width: 13%;
+  padding: 9px 0 0.35% 5px;
+}
+.ad_single_cover:first-child .ad_file_size, .ad_file_size {
+  width: 7%;
+}
+.footer {
+  margin: 3% auto 7.3%;
+}
+.ad_single_cover:first-child .ad_file_once {
+  height: auto!important;
+}
+.ad_single_cover:first-child .ad_file_once, .ad_single_cover .ad_file_once {
+  width: 6%;
+  height: 49px;
+}
+.tab a, .logout input {
+  color: #01cefe;
+  display: block;
+  font-family: adelle sans;
+  font-size: 17px;
+  line-height: 2em;
+  outline: medium none;
+  padding: 0.3em 1.5em;
+  text-decoration: none;
+}
+
+.main-color, .background-color, .ad_typekit_left, .ad_typekit_right {
+  float: left;
+  width: 100%;
+}
+
+.ad_setting_fiels > form #ad_settings_detail {
+  float: left;
+  width: 65%;
+}
+.footer-install {
+  width: 40em;
+}
+}
+@media (min-width: 737px) and (max-width: 768px) {
+#install fieldset, #install + fieldset {
+  max-width: 43em;
+}
+.ad_single_cover:first-child .ad_file_once {
+  height: auto;
+}
+.footer {
+  margin: 3% auto 7.3%;
+}
+.footer-install {
+  width: 43em;
+}
+.ad_gen_left select{
+  width: 81%;
+}
+.search-container {
+  width: 76%;
+}
+.ad_gen_right input#name {
+  width: 64%;
+}
+.ad_gen_right select {
+  width: 33%;
+}
+.ad_file_ip, .ad_single_cover:first-child .ad_file_ip {
+  width: 13%;
+}
+.ad_file_name, .ad_single_cover:first-child .ad_file_name {
+  width: 16.6%;
+}
+.ad_single_cover:first-child .ad_file_size, .ad_file_size {
+  width: 8%;
+}
+.ad_file_type, .ad_single_cover:first-child .ad_file_type{
+	width: 9.5%;
+}
+.ad_gen_bottom_right select {
+  padding-right: 38%;
+}
+div.pagination span.current, .pagination a {
+  width: 4.7%;
+}
+.ad_file_exp, .ad_file_date, .ad_single_cover:first-child .ad_file_exp, .ad_single_cover:first-child .ad_file_date  {
+  width: 13%;
+}
+.ad_single_cover:first-child .ad_file_size, .ad_file_size {
+  width: 7%;
+}
+.ad_single_cover:first-child .ad_file_once, .ad_single_cover .ad_file_once {
+  width: 6%;
+  height: 49px;
+}
+.tab a, .logout input {
+  padding: 0.3em 1.5em;
+}
+.main-color, .background-color, .ad_typekit_left, .ad_typekit_right {
+  float: left;
+  width: 100%;
+}
+
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+.ad_file_name, .ad_single_cover:first-child .ad_file_name {
+  width: 39%;
+}
+.ad_gen_left select {
+  width: 84%;
+}
+.search-container {
+  width: 81%;
+}
+.ad_gen_right input#name{
+  width: 75%;
+} 
+.ad_gen_bottom_right select{
+  width: 25%;	
+}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.ad_gen_left input{
+	padding: 2% 2%;
+}
+.ad_gen_right input[type="submit"]{
+	padding: 2.3% 2%;
+	margin-top: 0px;
+}
+}
+.tab a, .logout input {
+  padding: 0.3em 1.5em;
+}
+.footer {
+  margin: 2% auto 7.3%;
+}
+}
+
+@media (min-width: 1919px) and (max-width: 1920px) {
+.ad_gen_left select {
+    padding: 1.5% 2%;
+	 height: 53px;	
+}
+.ad_file_exp, .ad_file_date {
+    box-sizing: border-box;
+    padding: 22px 0 0.35% 5px;
+}
+.search-container {
+ height: 60px;
+ padding-top: 5px;
+ margin-top: 1px;
+ padding-bottom: 6px;
+}
+}
+
+@media (min-width: 1599px) and (max-width: 1600px) {
+.ad_gen_left select {
+    padding: 1.5% 2%;
+	 height: 53px;	
+}
+
+}
