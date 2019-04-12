@@ -1,0 +1,2 @@
+[29-Nov-2015 08:44:26 UTC] PHP Fatal error:  Call to undefined function get_tiny_url() in /home/lokibhardwaj/public_html/Jirafeau-master/script.php on line 566
+[02-Dec-2015 10:03:10 UTC] PHP Fatal error:  Call to undefined function is_ssl() in /home/lokibhardwaj/public_html/Jirafeau-master/lib/template/header_admin.php on line 12
