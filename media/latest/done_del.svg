@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>deleted</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="deleted" sketch:type="MSArtboardGroup" stroke="#FFFFFF" stroke-width="2.14054054">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(12.000000, 6.000000)">
+                <path d="M11,5 L11,2 C11,0.9 11.975,0 13.1666667,0 L21.8333333,0 C23.025,0 24,0.9 24,2 L24,5" id="Shape" sketch:type="MSShapeGroup"></path>
+                <path d="M0,5 L36,5" id="Shape" sketch:type="MSShapeGroup"></path>
+                <path d="M18,12 L18,39" id="Shape" sketch:type="MSShapeGroup"></path>
+                <path d="M24,12 L24,39" id="Shape" sketch:type="MSShapeGroup"></path>
+                <path d="M11,12 L11,39" id="Shape" sketch:type="MSShapeGroup"></path>
+                <path d="M34,5 L34,43.8974359 C34,45.0538462 33.04,46 31.8666667,46 L4.13333333,46 C2.96,46 2,45.0538462 2,43.8974359 L2,5" id="Shape" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

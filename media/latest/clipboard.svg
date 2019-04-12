@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>clipboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="clipboard" stroke-width="0.9792" stroke="#000000">
+            <g id="Group" transform="translate(10.000000, 8.000000)">
+                <g id="paste">
+                    <g id="Layer_1">
+                        <rect id="Rectangle-path" x="6.66666667" y="7.5" width="13.3333333" height="16.5"></rect>
+                        <rect id="Rectangle-path" x="5.23809524" y="0" width="6.66666667" height="4"></rect>
+                        <path d="M5.23809524,3 L1.9047619,3 L1.9047619,20 L5.71428571,20" id="Shape"></path>
+                        <path d="M15.2380952,6.5 L15.2380952,3 L11.9047619,3" id="Shape"></path>
+                        <path d="M5.23809524,1 L0.904761905,1 C0.428571429,1 0,1.45 0,1.95 L0,21 C0,21.55 0.428571429,22 0.904761905,22 L5.71428571,22" id="Shape"></path>
+                        <path d="M17.1428571,6.5 L17.1428571,1.95 C17.1428571,1.45 16.7142857,1 16.2380952,1 L11.9047619,1" id="Shape"></path>
+                        <path d="M9.52380952,11.5 L17.6190476,11.5" id="Shape"></path>
+                        <path d="M9.52380952,14.5 L15.2380952,14.5" id="Shape"></path>
+                        <path d="M9.52380952,17.5 L17.6190476,17.5" id="Shape"></path>
+                        <path d="M9.52380952,20.5 L15.2380952,20.5" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>download</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="download" sketch:type="MSArtboardGroup">
+            <g id="software_installer" sketch:type="MSLayerGroup" transform="translate(8.000000, 8.000000)">
+                <g id="Layer_1" sketch:type="MSShapeGroup">
+                    <path d="M22.1590909,20.5714286 C22.1590909,21.2022857 21.6505682,21.7142857 21.0227273,21.7142857 C20.3948864,21.7142857 19.8863636,21.2022857 19.8863636,20.5714286 C19.8863636,19.9405714 20.3948864,19.4285714 21.0227273,19.4285714 C21.6505682,19.4285714 22.1590909,19.9405714 22.1590909,20.5714286 L22.1590909,20.5714286 Z" id="Shape" fill="#373737"></path>
+                    <path d="M25,23.4285714 C25,23.744 24.7454545,24 24.4318182,24 L0.568181818,24 C0.254545455,24 0,23.744 0,23.4285714 L0,17.7142857 C0,17.3988571 0.254545455,17.1428571 0.568181818,17.1428571 L24.4318182,17.1428571 C24.7454545,17.1428571 25,17.3988571 25,17.7142857 L25,23.4285714 L25,23.4285714 Z" id="Shape" stroke="#373737" stroke-width="1.13636364"></path>
+                    <path d="M14.7727273,2.85714286 L21.2085227,2.85714286 C21.4448864,2.85714286 21.6693182,3.05028571 21.7096591,3.29085714 L24.9193182,17.4291429" id="Shape" stroke="#373737" stroke-width="1.13636364"></path>
+                    <path d="M0.0534090909,17.4731429 L3.29034091,3.29085714 C3.33068182,3.05028571 3.55454545,2.85714286 3.79090909,2.85714286 L10.2272727,2.85714286" id="Shape" stroke="#373737" stroke-width="1.13636364"></path>
+                    <path d="M17.6136364,8 L12.5,13.1428571 L7.38636364,8" id="Shape" stroke="#373737" stroke-width="1.13636364"></path>
+                    <path d="M12.5,12.5714286 L12.5,0" id="Shape" stroke="#373737" stroke-width="1.13636364"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
