@@ -30,7 +30,7 @@ s2p ($s)
 {
     $p = '';
     for ($i = 0; $i < strlen ($s); $i++)
-        $p .= $s{$i} . '/';
+        $p .= $s[$i] . '/';
     return $p;
 }
 
@@ -64,14 +64,14 @@ base_16_to_64 ($num)
     # Convert long hex string to bin.
     $size = strlen ($num);
     for ($i = 0; $i < $size; $i++)
-        $b .= $hex2bin{hexdec ($num{$i})};
+        $b .= $hex2bin[hexdec ($num[$i])];
     # Convert long bin to base 64.
     $size *= 4;
     for ($i = $size - 6; $i >= 0; $i -= 6)
-        $o = $m{bindec (substr ($b, $i, 6))} . $o;
+        $o = $m[bindec (substr ($b, $i, 6))] . $o;
     # Some few bits remaining ?
     if ($i < 0 && $i > -6)
-        $o = $m{bindec (substr ($b, 0, $i + 6))} . $o;
+        $o = $m[bindec (substr ($b, 0, $i + 6))] . $o;
     return $o;
 }
 
